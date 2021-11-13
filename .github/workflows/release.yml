@@ -20,4 +20,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: "abdollahpour/go-libvip:1.17,abdollahpour/go-libvip:latest"
+          tags: "abdollahpour/go-libvip:1.17.3,abdollahpour/go-libvip:latest"
